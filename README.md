@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Guilherme Fonseca
+Guilherme Fonseca
 =========================================================================================================================================
 
 Front-End Developer
@@ -6,7 +6,7 @@ Front-End Developer
 
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [guilhermelimafonseca@gmail.com](mailto:guilhermelimafonseca@gmail.com)
-* 🧠  I'm learning React Redux
+* 🧠  I'm a FrontEnd Developer 
 
 ### Skills
 
