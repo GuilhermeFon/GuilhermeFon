@@ -6,11 +6,11 @@ Front-End Developer
 
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [guilhermelimafonseca@gmail.com](mailto:guilhermelimafonseca@gmail.com)
-* 🧠  I'm a dynamic professional with a strong foundation in Front-end development. With a focused mindset and dedication to continuous learning, I thrive in dynamic environments where I can contribute to innovative projects and collaborate with talented teams.
+* 🧠  I'm a dynamic professional with a solid foundation in Full Stack Development. With a focused mindset and a commitment to continuous learning, I thrive in collaborative and challenging environments where I can contribute to innovative projects and work alongside talented teams.
 
-  I have been working as a Front-end Developer for the past year, specializing in technologies such as React, Next.js, TypeScript, Redux, Redux Sagas, Tailwind CSS, Bootstrap, Material UI, and Styled Components. My primary focus is on delivering clean, tested, standardized, and scalable code solutions.
+I have been working as a Full Stack Developer for over four years, specializing in technologies such as React, Next.js, TypeScript, Redux, Redux-Saga, Tailwind CSS, Bootstrap, Material UI, Styled Components, Node.js, Express, MySQL, and MongoDB. My main focus is to deliver solutions with clean, tested, standardized, and scalable code.
 
-  Currently, I am pursuing a degree in Analysis and Systems Development at Senac, currently in the 5th semester. Alongside my academic pursuits, I am committed to staying updated with the latest industry trends and technologies to enhance my skills and expertise.
+I hold a degree in Systems Analysis and Development from Senac. Alongside my academic background, I continuously stay up to date with the latest industry trends and technologies to enhance my skills and expand my expertise.
 
 ### Skills
 
